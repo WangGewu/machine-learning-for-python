@@ -1,1 +1,1 @@
-# machine-learning-for-python
+# 都是用Numpy实现的
